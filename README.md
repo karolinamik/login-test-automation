@@ -1,5 +1,5 @@
 # About
-This is sample test automation project. Test script checks login proccess for every credential given in \\src\resources\emails.csv file.
+This is sample test automation project. Test script checks in Mozilla Firefox login proccess for every credential given in \\src\resources\emails.csv file.
 
 # Technologies
 - Selenium Webdriver, 
@@ -8,5 +8,5 @@ This is sample test automation project. Test script checks login proccess for ev
 - JUnitParams.
 
 # Run
-  - Open the terminal at ms-login directory
+  - Open the terminal at login-test-automation directory
   - Run `mvn test`
